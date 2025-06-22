@@ -1,6 +1,8 @@
 # JAMB-Task
 Research and Data Collection for all students who have taken JAMB in the last five years
 
+## Investigating The Causes of JAMB Failure Rates and Predicting Future Performance Trends (2020–2030)
+Over the past five years, there has been a noticeable increase in the failure rate of students taking the Joint Admissions and Matriculation Board (JAMB) examination in Nigeria. This project aims to investigate the root causes of this trend through data-driven research and analysis. We will design and conduct a survey to gather relevant data, explore this data to identify key insights, build a predictive model to forecast success and failure rates over the next five years (2026–2030), and provide actionable recommendations to mitigate future failure rates.
 ### Visualizations
 
 1. **Overall Pass vs. Fail Count**:
